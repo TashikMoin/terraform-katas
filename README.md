@@ -2,7 +2,7 @@
 Repository to practice terraform
 
 
-# Credentials
+<h4> Credentials </h4>
 
 Export the following environmental variables for provider to make api calls by adding following lines in your ~/.bashrc OR ~/.zshrc file<br />
 
