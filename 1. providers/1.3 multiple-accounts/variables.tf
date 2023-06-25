@@ -5,3 +5,11 @@ variable "region_us" {
 variable "region_eu" {
     default = "eu-west-1"
 }
+
+variable "bucket_us" {
+    default = "johndoe-us"
+}
+
+variable "bucket_eu" {
+    default = "johndoe-eu"
+}

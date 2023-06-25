@@ -29,6 +29,8 @@ provider "aws" {
   profile = <profile_name_account_2>          <------------ configuring provider with desired account/profile.
 }
 
+provider "random" {}
+
 
 
 Resource creation with different aliases of same provider (AWS) in "different" accounts.

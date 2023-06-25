@@ -8,6 +8,8 @@ provider "aws" {
   alias  = "eu"
 }
 
+provider "random" {}
+
 /* 
 
 Resource creation with different aliases of same provider (AWS) in "same" account.
