@@ -1,4 +1,5 @@
 *.terraform*
 *.tfvars*
+*.tfstate*
 *credentials*
 *.vscode*
